@@ -1,6 +1,6 @@
 # <h2>Web Services</h2>
 
-![alt text](https://github.com/Asky-M/Elrahma/tree/master/Pictures/(xml)what is.png)
+![alt text](https://github.com/Asky-M/Elrahma/blob/master/Pictures/(xml)what_is.png)
 
 XML stands for Extensible Markup Language and is a text-based markup language
 derived from Standard Generalized Markup Language (SGML)
@@ -18,9 +18,19 @@ the data irrespective of how it will be presented.</li>
 called the World Wide Web Consortium (W3C) and is available as 
 an open standard.</li>
 
+<h4>advantage XML</h4>
+
+![alt text](https://github.com/Asky-M/Elrahma/blob/master/Pictures/(xml)advantage.png)
+
 <h4>7.5. XML Syntax Rules</h4>
 <li> All XML Elements Must Have a Closing Tag.</li>
 <li> XML Tags are Case Sensitive.</li>
 <li> XML Elements Must be Properly Nested.</li>
 <li> XML Documents Must Have a Root Element.</li>
 <li> XML Attribute Value Must be Quoted.</li>
+
+![alt text](https://github.com/Asky-M/Elrahma/blob/master/Pictures/(xml)rule.png)
+
+<h4>syntax</h4>
+
+![alt text](https://github.com/Asky-M/Elrahma/blob/master/Pictures/(xml)syntax.png)
