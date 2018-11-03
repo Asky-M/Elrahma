@@ -1,0 +1,465 @@
+<?xml version="1.0"?>
+<data>
+  <product>
+    <ProductID>1</ProductID>
+    <ProductName>Chai</ProductName>
+    <CategoryName>Beveragess</CategoryName>
+    <QuantityPerUnit>10 boxes x 20 bags</QuantityPerUnit>
+    <UnitsInStock>39</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>2</ProductID>
+    <ProductName>Chang</ProductName>
+    <CategoryName>Beveragess</CategoryName>
+    <QuantityPerUnit>24 - 12 oz bottles</QuantityPerUnit>
+    <UnitsInStock>17</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>3</ProductID>
+    <ProductName>Aniseed Syrup</ProductName>
+    <CategoryName>Condiments</CategoryName>
+    <QuantityPerUnit>12 - 550 ml bottles</QuantityPerUnit>
+    <UnitsInStock>13</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>4</ProductID>
+    <ProductName>Chef Anton's Cajun Seasoning</ProductName>
+    <CategoryName>Condiments</CategoryName>
+    <QuantityPerUnit>48 - 6 oz jars</QuantityPerUnit>
+    <UnitsInStock>53</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>5</ProductID>
+    <ProductName>Chef Anton's Gumbo Mix</ProductName>
+    <CategoryName>Condiments</CategoryName>
+    <QuantityPerUnit>36 boxes</QuantityPerUnit>
+    <UnitsInStock>0</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>6</ProductID>
+    <ProductName>Grandma's Boysenberry Spread</ProductName>
+    <CategoryName>Condiments</CategoryName>
+    <QuantityPerUnit>12 - 8 oz jars</QuantityPerUnit>
+    <UnitsInStock>120</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>7</ProductID>
+    <ProductName>Uncle Bob's Organic Dried Pears</ProductName>
+    <CategoryName>Produce</CategoryName>
+    <QuantityPerUnit>12 - 1 lb pkgs.</QuantityPerUnit>
+    <UnitsInStock>15</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>8</ProductID>
+    <ProductName>Northwoods Cranberry Sauce</ProductName>
+    <CategoryName>Condiments</CategoryName>
+    <QuantityPerUnit>12 - 12 oz jars</QuantityPerUnit>
+    <UnitsInStock>6</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>9</ProductID>
+    <ProductName>Mishi Kobe Niku</ProductName>
+    <CategoryName>Meat/Poultry</CategoryName>
+    <QuantityPerUnit>18 - 500 g pkgs.</QuantityPerUnit>
+    <UnitsInStock>29</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>10</ProductID>
+    <ProductName>Ikura</ProductName>
+    <CategoryName>Produce</CategoryName>
+    <QuantityPerUnit>12 - 200 ml jars</QuantityPerUnit>
+    <UnitsInStock>31</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>11</ProductID>
+    <ProductName>Queso Cabrales</ProductName>
+    <CategoryName>Dairy Products</CategoryName>
+    <QuantityPerUnit>1 kg pkg.</QuantityPerUnit>
+    <UnitsInStock>22</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>12</ProductID>
+    <ProductName>Queso Manchego La Pastora</ProductName>
+    <CategoryName>Dairy Products</CategoryName>
+    <QuantityPerUnit>10 - 500 g pkgs.</QuantityPerUnit>
+    <UnitsInStock>86</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>14</ProductID>
+    <ProductName>Tofu</ProductName>
+    <CategoryName>Produce</CategoryName>
+    <QuantityPerUnit>40 - 100 g pkgs.</QuantityPerUnit>
+    <UnitsInStock>35</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>15</ProductID>
+    <ProductName>Genen Shouyu</ProductName>
+    <CategoryName>Condiments</CategoryName>
+    <QuantityPerUnit>24 - 250 ml bottles</QuantityPerUnit>
+    <UnitsInStock>39</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>16</ProductID>
+    <ProductName>Pavlova</ProductName>
+    <CategoryName>Confections</CategoryName>
+    <QuantityPerUnit>32 - 500 g boxes</QuantityPerUnit>
+    <UnitsInStock>29</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>17</ProductID>
+    <ProductName>Alice Mutton</ProductName>
+    <CategoryName>Meat/Poultry</CategoryName>
+    <QuantityPerUnit>20 - 1 kg tins</QuantityPerUnit>
+    <UnitsInStock>0</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>19</ProductID>
+    <ProductName>Teatime Chocolate Biscuits</ProductName>
+    <CategoryName>Confections</CategoryName>
+    <QuantityPerUnit>10 boxes x 12 pieces</QuantityPerUnit>
+    <UnitsInStock>25</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>20</ProductID>
+    <ProductName>Sir Rodney's Marmalade</ProductName>
+    <CategoryName>Confections</CategoryName>
+    <QuantityPerUnit>30 gift boxes</QuantityPerUnit>
+    <UnitsInStock>40</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>21</ProductID>
+    <ProductName>Sir Rodney's Scones</ProductName>
+    <CategoryName>Confections</CategoryName>
+    <QuantityPerUnit>24 pkgs. x 4 pieces</QuantityPerUnit>
+    <UnitsInStock>3</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>22</ProductID>
+    <ProductName>Gustaf's Kn?ckebr?d</ProductName>
+    <CategoryName>Grains/Cereals</CategoryName>
+    <QuantityPerUnit>24 - 500 g pkgs.</QuantityPerUnit>
+    <UnitsInStock>104</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>23</ProductID>
+    <ProductName>Tunnbr?d</ProductName>
+    <CategoryName>Grains/Cereals</CategoryName>
+    <QuantityPerUnit>12 - 250 g pkgs.</QuantityPerUnit>
+    <UnitsInStock>61</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>24</ProductID>
+    <ProductName>Guaran? Fant?stica</ProductName>
+    <CategoryName>Beveragess</CategoryName>
+    <QuantityPerUnit>12 - 355 ml cans</QuantityPerUnit>
+    <UnitsInStock>20</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>25</ProductID>
+    <ProductName>NuNuCa Nu?-Nougat-Creme</ProductName>
+    <CategoryName>Confections</CategoryName>
+    <QuantityPerUnit>20 - 450 g glasses</QuantityPerUnit>
+    <UnitsInStock>76</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>26</ProductID>
+    <ProductName>Gumb?r Gummib?rchen</ProductName>
+    <CategoryName>Confections</CategoryName>
+    <QuantityPerUnit>100 - 250 g bags</QuantityPerUnit>
+    <UnitsInStock>15</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>27</ProductID>
+    <ProductName>Schoggi Schokolade</ProductName>
+    <CategoryName>Confections</CategoryName>
+    <QuantityPerUnit>100 - 100 g pieces</QuantityPerUnit>
+    <UnitsInStock>49</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>28</ProductID>
+    <ProductName>R?ssle Sauerkraut</ProductName>
+    <CategoryName>Produce</CategoryName>
+    <QuantityPerUnit>25 - 825 g cans</QuantityPerUnit>
+    <UnitsInStock>26</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>29</ProductID>
+    <ProductName>Th?ringer Rostbratwurst</ProductName>
+    <CategoryName>Meat/Poultry</CategoryName>
+    <QuantityPerUnit>50 bags x 30 sausgs.</QuantityPerUnit>
+    <UnitsInStock>0</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>31</ProductID>
+    <ProductName>Gorgonzola Telino</ProductName>
+    <CategoryName>Dairy Products</CategoryName>
+    <QuantityPerUnit>12 - 100 g pkgs</QuantityPerUnit>
+    <UnitsInStock>0</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>32</ProductID>
+    <ProductName>Mascarpone Fabioli</ProductName>
+    <CategoryName>Dairy Products</CategoryName>
+    <QuantityPerUnit>24 - 200 g pkgs.</QuantityPerUnit>
+    <UnitsInStock>9</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>33</ProductID>
+    <ProductName>Geitost</ProductName>
+    <CategoryName>Dairy Products</CategoryName>
+    <QuantityPerUnit>500 g</QuantityPerUnit>
+    <UnitsInStock>112</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>34</ProductID>
+    <ProductName>Sasquatch Ale</ProductName>
+    <CategoryName>Beveragess</CategoryName>
+    <QuantityPerUnit>24 - 12 oz bottles</QuantityPerUnit>
+    <UnitsInStock>111</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>35</ProductID>
+    <ProductName>Steeleye Stout</ProductName>
+    <CategoryName>Beveragess</CategoryName>
+    <QuantityPerUnit>24 - 12 oz bottles</QuantityPerUnit>
+    <UnitsInStock>20</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>38</ProductID>
+    <ProductName>C?te de Blaye</ProductName>
+    <CategoryName>Beveragess</CategoryName>
+    <QuantityPerUnit>12 - 75 cl bottles</QuantityPerUnit>
+    <UnitsInStock>17</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>39</ProductID>
+    <ProductName>Chartreuse verte</ProductName>
+    <CategoryName>Beveragess</CategoryName>
+    <QuantityPerUnit>750 cc per bottle</QuantityPerUnit>
+    <UnitsInStock>69</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>42</ProductID>
+    <ProductName>Singaporean Hokkien Fried Mee</ProductName>
+    <CategoryName>Grains/Cereals</CategoryName>
+    <QuantityPerUnit>32 - 1 kg pkgs.</QuantityPerUnit>
+    <UnitsInStock>26</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>43</ProductID>
+    <ProductName>Ipoh Coffee</ProductName>
+    <CategoryName>Beveragess</CategoryName>
+    <QuantityPerUnit>16 - 500 g tins</QuantityPerUnit>
+    <UnitsInStock>17</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>44</ProductID>
+    <ProductName>Gula Malacca</ProductName>
+    <CategoryName>Condiments</CategoryName>
+    <QuantityPerUnit>20 - 2 kg bags</QuantityPerUnit>
+    <UnitsInStock>27</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>47</ProductID>
+    <ProductName>Zaanse koeken</ProductName>
+    <CategoryName>Confections</CategoryName>
+    <QuantityPerUnit>10 - 4 oz boxes</QuantityPerUnit>
+    <UnitsInStock>36</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>48</ProductID>
+    <ProductName>Chocolade</ProductName>
+    <CategoryName>Confections</CategoryName>
+    <QuantityPerUnit>10 pkgs.</QuantityPerUnit>
+    <UnitsInStock>15</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>49</ProductID>
+    <ProductName>Maxilaku</ProductName>
+    <CategoryName>Confections</CategoryName>
+    <QuantityPerUnit>24 - 50 g pkgs.</QuantityPerUnit>
+    <UnitsInStock>10</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>50</ProductID>
+    <ProductName>Valkoinen suklaa</ProductName>
+    <CategoryName>Confections</CategoryName>
+    <QuantityPerUnit>12 - 100 g bars</QuantityPerUnit>
+    <UnitsInStock>65</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>51</ProductID>
+    <ProductName>Manjimup Dried Apples</ProductName>
+    <CategoryName>Produce</CategoryName>
+    <QuantityPerUnit>50 - 300 g pkgs.</QuantityPerUnit>
+    <UnitsInStock>20</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>52</ProductID>
+    <ProductName>Filo Mix</ProductName>
+    <CategoryName>Grains/Cereals</CategoryName>
+    <QuantityPerUnit>16 - 2 kg boxes</QuantityPerUnit>
+    <UnitsInStock>38</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>53</ProductID>
+    <ProductName>Perth Pasties</ProductName>
+    <CategoryName>Meat/Poultry</CategoryName>
+    <QuantityPerUnit>48 pieces</QuantityPerUnit>
+    <UnitsInStock>0</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>54</ProductID>
+    <ProductName>Tourti?re</ProductName>
+    <CategoryName>Meat/Poultry</CategoryName>
+    <QuantityPerUnit>16 pies</QuantityPerUnit>
+    <UnitsInStock>21</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>55</ProductID>
+    <ProductName>P?t? chinois</ProductName>
+    <CategoryName>Meat/Poultry</CategoryName>
+    <QuantityPerUnit>24 boxes x 2 pies</QuantityPerUnit>
+    <UnitsInStock>115</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>56</ProductID>
+    <ProductName>Gnocchi di nonna Alice</ProductName>
+    <CategoryName>Grains/Cereals</CategoryName>
+    <QuantityPerUnit>24 - 250 g pkgs.</QuantityPerUnit>
+    <UnitsInStock>21</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>57</ProductID>
+    <ProductName>Ravioli Angelo</ProductName>
+    <CategoryName>Grains/Cereals</CategoryName>
+    <QuantityPerUnit>24 - 250 g pkgs.</QuantityPerUnit>
+    <UnitsInStock>36</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>59</ProductID>
+    <ProductName>Raclette Courdavault</ProductName>
+    <CategoryName>Dairy Products</CategoryName>
+    <QuantityPerUnit>5 kg pkg.</QuantityPerUnit>
+    <UnitsInStock>79</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>60</ProductID>
+    <ProductName>Camembert Pierrot</ProductName>
+    <CategoryName>Dairy Products</CategoryName>
+    <QuantityPerUnit>15 - 300 g rounds</QuantityPerUnit>
+    <UnitsInStock>19</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>61</ProductID>
+    <ProductName>Sirop d'?rable</ProductName>
+    <CategoryName>Condiments</CategoryName>
+    <QuantityPerUnit>24 - 500 ml bottles</QuantityPerUnit>
+    <UnitsInStock>113</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>62</ProductID>
+    <ProductName>Tarte au sucre</ProductName>
+    <CategoryName>Confections</CategoryName>
+    <QuantityPerUnit>48 pies</QuantityPerUnit>
+    <UnitsInStock>17</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>63</ProductID>
+    <ProductName>Vegie-spread</ProductName>
+    <CategoryName>Condiments</CategoryName>
+    <QuantityPerUnit>15 - 625 g jars</QuantityPerUnit>
+    <UnitsInStock>24</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>64</ProductID>
+    <ProductName>Wimmers gute Semmelkn?del</ProductName>
+    <CategoryName>Grains/Cereals</CategoryName>
+    <QuantityPerUnit>20 bags x 4 pieces</QuantityPerUnit>
+    <UnitsInStock>22</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>65</ProductID>
+    <ProductName>Louisiana Fiery Hot Pepper Sauce</ProductName>
+    <CategoryName>Condiments</CategoryName>
+    <QuantityPerUnit>32 - 8 oz bottles</QuantityPerUnit>
+    <UnitsInStock>76</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>66</ProductID>
+    <ProductName>Louisiana Hot Spiced Okra</ProductName>
+    <CategoryName>Condiments</CategoryName>
+    <QuantityPerUnit>24 - 8 oz jars</QuantityPerUnit>
+    <UnitsInStock>4</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>67</ProductID>
+    <ProductName>Laughing Lumberjack Lager</ProductName>
+    <CategoryName>Beveragess</CategoryName>
+    <QuantityPerUnit>24 - 12 oz bottles</QuantityPerUnit>
+    <UnitsInStock>52</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>68</ProductID>
+    <ProductName>Scottish Longbreads</ProductName>
+    <CategoryName>Confections</CategoryName>
+    <QuantityPerUnit>10 boxes x 8 pieces</QuantityPerUnit>
+    <UnitsInStock>6</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>69</ProductID>
+    <ProductName>Gudbrandsdalsost</ProductName>
+    <CategoryName>Dairy Products</CategoryName>
+    <QuantityPerUnit>10 kg pkg.</QuantityPerUnit>
+    <UnitsInStock>26</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>70</ProductID>
+    <ProductName>Outback Lager</ProductName>
+    <CategoryName>Beveragess</CategoryName>
+    <QuantityPerUnit>24 - 355 ml bottles</QuantityPerUnit>
+    <UnitsInStock>15</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>71</ProductID>
+    <ProductName>Fl?temysost</ProductName>
+    <CategoryName>Dairy Products</CategoryName>
+    <QuantityPerUnit>10 - 500 g pkgs.</QuantityPerUnit>
+    <UnitsInStock>26</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>72</ProductID>
+    <ProductName>Mozzarella di Giovanni</ProductName>
+    <CategoryName>Dairy Products</CategoryName>
+    <QuantityPerUnit>24 - 200 g pkgs.</QuantityPerUnit>
+    <UnitsInStock>14</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>74</ProductID>
+    <ProductName>Longlife Tofu</ProductName>
+    <CategoryName>Produce</CategoryName>
+    <QuantityPerUnit>5 kg pkg.</QuantityPerUnit>
+    <UnitsInStock>4</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>75</ProductID>
+    <ProductName>Rh?nbr?u Klosterbier</ProductName>
+    <CategoryName>Beveragess</CategoryName>
+    <QuantityPerUnit>24 - 0.5 l bottles</QuantityPerUnit>
+    <UnitsInStock>125</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>76</ProductID>
+    <ProductName>Lakkalik??ri</ProductName>
+    <CategoryName>Beveragess</CategoryName>
+    <QuantityPerUnit>500 ml</QuantityPerUnit>
+    <UnitsInStock>57</UnitsInStock>
+  </product>
+  <product>
+    <ProductID>77</ProductID>
+    <ProductName>Original Frankfurter gr?ne So?e</ProductName>
+    <CategoryName>Condiments</CategoryName>
+    <QuantityPerUnit>12 boxes</QuantityPerUnit>
+    <UnitsInStock>321</UnitsInStock>
+  </product>
+</data>
