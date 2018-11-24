@@ -64,13 +64,6 @@
     <UnitsInStock>29</UnitsInStock>
   </product>
   <product>
-    <ProductID>10</ProductID>
-    <ProductName>Ikura</ProductName>
-    <CategoryName>Produce</CategoryName>
-    <QuantityPerUnit>12 - 200 ml jars</QuantityPerUnit>
-    <UnitsInStock>31</UnitsInStock>
-  </product>
-  <product>
     <ProductID>11</ProductID>
     <ProductName>Queso Cabrales</ProductName>
     <CategoryName>Dairy Products</CategoryName>
