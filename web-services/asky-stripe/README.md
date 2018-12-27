@@ -3,4 +3,4 @@ Check the recent version at https://github.com/chriskacerguis/codeigniter-restse
 
 My alternate version https://github.com/ardisaurus/old-rest-ci
 
-stripe.cm
+stripe.com
