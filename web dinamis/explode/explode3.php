@@ -1,21 +1,17 @@
 <?php
 
-//I have a problem, I have a string array, and I want to explode in different delimiter. For E
-xample
+//I have a problem, I have a string array, and I want to explode in different delimiter. For Example
 
-$string = 'Appel @ Ratte';
-//$example2 = 'apple vs ratte'
-//and I need an array which is explode in @ or vs.
+$string = ("iOS @ Android ");
+$lin = ('Linux vs Windows ');
 
-//I already wrote a solution, but If everybody have a better solution please post here.
-
-private function multiExplode($delimiters,$string) {
-    $ary = explode($delimiters[0],$string);
+function multiExplode($delimiters,$string,$lin) {
+    $array = explode($delimiters[0],$string,$lin);
     array_shift($delimiters);
     if($delimiters != NULL) {
-        if(count($ary) <2)
-            $ary = $this->multiExplode($delimiters, $string);
+        if(count($array) <2)
+            $array = $this->multiExplode($delimiters, $string,$lin);
     }
-    return  $ary;
+    return  $array;
 }
 ?>

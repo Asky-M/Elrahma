@@ -6,7 +6,7 @@ $newdata = implode(",", array_map(function($x) use ($dbc) {
 }, $_POST));
 
 $query = (
-"INSERT INTO Food_entered ($fields)
+"INSERT INTO nama_makanan ($fields)
 VALUES ($newdata)");
 
 $result = mysqli_query($dbc, $query);
