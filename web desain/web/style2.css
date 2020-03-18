@@ -105,10 +105,36 @@ width:470px;
 float:left;
 }
 input, textarea{
+	background: #ffffcc;
 	border: 1px solid aqua;
 	border-radius: 5px;
 }
+.name{
+	color: blue;
+}
+#name {
+	border: 1px solid blue;
+	border-radius: 3px;
+}
+.email{
+	color: #663300;
+}
+#email {
+	border: 1px solid #663300;
+	border-radius: 3px;
+}
+.url{
+	color: #660033;
+}
+#url {
+	border: 1px solid #660033;
+	border-radius: 3px;
+}
+.message{
+	color: #000066;
+}
 textarea{
+
 	column-span: 50px;
 	grid-auto-rows:  20px;
 }
