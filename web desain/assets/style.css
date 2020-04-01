@@ -134,7 +134,6 @@ input, textarea{
 	color: #000066;
 }
 textarea{
-
-	column-span: 50px;
+	column-span: all;
 	grid-auto-rows:  20px;
 }
