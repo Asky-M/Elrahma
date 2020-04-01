@@ -3,24 +3,49 @@
 	padding:0;
 	font-family:calibri, segoe ui, arial, tahoma, sans-serif;
 }
+a{
+	text-decoration: none;
+}
+a:hover{
+	color: #008CBA;
+}
+.hero{
+	width: 100%;
+	height: auto;
+	float: left;
+}
+p{
+	text-align: justify;
+	text-indent: 50px;
+	font-family: arial;
+	font-size: 16px;
+}
+
+.hero img{
+	width: 100%;
+}
 body{
-background-color: #DDDDDD;
+background-color: #f2e6d9;
 }
 #wrapper{
-width: 780px;
+width: 60%;
 margin: 0 auto;
 overflow: hidden;
 }
 
-#header{
+header{
 	background: url(images/header.jpg) repeat-x #666;
 	height: 70px;
 	width: 100%;
 	padding: 5px;
-	margin: 20px 0;
+	margin: 10px 0;
 	overflow: hidden;
 }
-#header img{ width:130px ; height:35px ; }
+header img{ 
+	width:100px ; 
+	height:25px ; 
+	border-radius: 10px;
+}
 #menu-utama {
 margin-top:3px;
 list-style:none;
@@ -34,12 +59,12 @@ border-right:1px solid #555555;
 color : #ffffff;
 text-decoration:none;
 }
-#header form{
+header form{
 float:right;
 margin-top: 7px;
 margin-right: 10px;
 }
-#header form input{
+header form input{
 border:none;
 height:20px;
 }
@@ -47,93 +72,116 @@ height:20px;
 width:470px;
 float:left;
 }
-.artikel {
-background: #ffffff;
+article {
+background: #f2f2f2;
 padding:10px;
 margin-bottom:20px;
 overflow:hidden;
 }
-.artikel img{
+article img{
 float:left;
 margin-right:10px;
 width:200px;
 height:165px;
 }
-.artikel b{
-color:#616060;
-background: #DDDDDD;
+article b{
+background: #f2f2f2;
 padding: 3px;
 font-size:12px;
 font-weight:bold;
 margin-right:10px;
 }
-.artikel p{
+article p{
 margin:10px 0;
 }
-.artikel a{
+article a{
 display:block;
 text-align:right;
-color:#636363;
+color: #636363;
 }
-#sidebar{
+aside{
 width:270px;
 float:right;
 }
-#sidebar h2{
+aside h2{
 font-size:18px;
 margin:10px 0;
 }
-#sidebar p{
+aside p{
 line-height:20px;
 color : #636363;
 }
-#sidebar ul li a{
+aside ul li a{
 color:#636363;
 text-decoration:none;
 }
-#footer{
+footer{
 clear:both;
 margin:20px 0;
 text-align:center;
 background-color: #f0f0f0;
 padding:5px;
-color:#555555;
 }
 
-#add-data{
+section{
 width:470px;
 float:left;
+height: 550px;
+}
+section {
+	float: left;
+	border-radius: 2px;
+	background-color: #f2f2f2;
+	padding: 10px;
+	margin-bottom: 50px;
 }
 input, textarea{
 	background: #ffffcc;
 	border: 1px solid aqua;
 	border-radius: 5px;
 }
-.name{
-	color: blue;
-}
+
 #name {
-	border: 1px solid blue;
+	border: 1px solid #008CBA;
 	border-radius: 3px;
-}
-.email{
-	color: #663300;
+	height: 25px;
+	width: 400px;
 }
 #email {
-	border: 1px solid #663300;
+	border: 1px solid #008CBA;
 	border-radius: 3px;
-}
-.url{
-	color: #660033;
+	height: 25px;
+	width: 400px;
 }
 #url {
-	border: 1px solid #660033;
+	border: 1px solid #008CBA;
 	border-radius: 3px;
+	height: 25px;
+	width: 400px;
 }
-.message{
-	color: #000066;
+button {
+	transition-duration: 0.4s;
+	border: 2px solid #008CBA;
+	padding: 10px 24px;
+
+ }
+button:hover {
+	background-color: #008CBA; /* Green */
+  color: white;
 }
-textarea{
-	column-span: all;
-	grid-auto-rows:  20px;
+
+input[type=text],input[type=email],textarea,input[type=url]{
+	width: 100%;
+	padding: 12px;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+	margin-top: 6px;
+	margin-bottom: 16px;
+	resize: vertical;
+}
+input[type=text]:focus,input[type=email]:focus,textarea:focus,input[type=url]:focus{
+	outline: none !important;
+    border:1px solid #008CBA;
+    box-shadow: 0 0 10px #008CBA;
 }

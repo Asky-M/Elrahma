@@ -7,53 +7,53 @@
 </head>
 <body>
 	<div id="wrapper">
-		<div id="header">
-			<img src="images/logo.png" alt="logo" />
+		<header>
+			<img src="images/logoit.png"/>
 			<ul id="menu-utama">
 				<li><a href="index.html">Home</a></li>
 				<li><a href="https://www.w3schools.com/css/default.asp" target="blank">Tutorial</a></li>
 				<li><a href="article.html">Article</a></li>
-				<li><a href="contact-us.html">Contact US</a></li>
+				<li><a href="contact-us.html">Contact Us</a></li>
 			</ul>
 			<form>
-				<button>search</button><input type="text" name="search" />
+				<input type="text" name="search" placeholder="searching..."/>
 			</form>
-		</div>
+		</header>
 
-		<div id="add-data">
-			<h1>Send your messages</h1><br />
-				<form>
+		<section>
+			<h1>Please open Your Ticket</h1><br />
+				<form action="action_page.php">
   					<label class="name">Name</label><br>
-  					<input type="text" id="name"><br>
+  					<input type="text" id="name" placeholder="name"><br>
   					<label class="email">E-mail</label><br>
-  					<input type="email" id="email"><br>
+  					<input type="email" id="email" placeholder="name@example.com"><br>
   					<label class="url">Your Website</label><br>
-  					<input type="url" id="url"><br />
-					<label class="message">Message</label><br />
- 					<textarea cols="50" rows="10"></textarea>
+  					<input type="url" id="url" placeholder="Website.."><br>
+					<label class="message">Message</label><br>
+ 					<textarea id="message" class="form-input" placeholder="your message.." style="height: 220px"></textarea><br>
 					<button type="submit" value="submit">Send Messages</button>
 					<button type="reset" value="Reset">Reset</button>
-				</form><br />
-		</div><!-- penutup div "add-data"-->
+				</form>
+		</section>
 
-		<div id="sidebar">
-			<h2>Who we are?</h2>
-			<p>Lorem ipsum dolor sit amet, consectetuer adij
-				Aenean massa. Cum sociis natoque penatibus
-				Donec quam felis, ultricies nec, pellentesq</p>
-			<h2>Artikel berdasarkan kategori</h2>
-			<ul>
-				<li><a href="">HTML dan css</a></li>
-				<li><a href="">Javascript</a></li>
-				<li><a href="">Photoshop</a></li>
-				<li><a href="">Inspirasi</a></li>
-				<li><a href="">Berita</a></li>
-				<li><a href="">off Topic</a></li>
-			</ul>
-		</div>
-		<div id="footer">
-			<p>Desain Web copyright 2017 by Wahyu Widodo</p>
-		</div>
-	</div><!-- Penutup div "wrapper" -->
+		<aside>
+		<h2>Who We Are?</h2>
+		<p>Driven by smart people wanting to do good, we help IT and security professionals advance their careers with certifications and	skills. At the same time, we empower all employees with security training to stay cybersafe at work and home.<br/>
+		It’s what we do every day educating individuals and organizations to defend themselves from cybercrime and equipping everyone with skills and confidence so the good guys win. || infosecinstitute.com</p><br>
+		<h2>Article by Category</h2>
+		<ul>
+			<li><a href="">Cyber Security</a></li>
+			<li><a href="">Penetration Test</a></li>
+			<li><a href="">Ethical Hacking</a></li>
+			<li><a href="">Tech Facts</a></li>
+			<li><a href="">Malmware Analysis</a></li>
+			<li><a href="">Digital Forensic</a></li>
+			<li><a href="">Bug Bounty</a></li>
+		</ul>
+	</aside>
+		<footer>
+			<h4>Desain Web copyright 2017 by Wahyu Widodo</h4>
+		</footer>
+	</div>
 </body>
 </html>
